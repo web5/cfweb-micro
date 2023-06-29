@@ -1,0 +1,11 @@
+{
+  "name": "cfweb-micro",
+  "version": "0.0.0",
+  "description": "micro front",
+  "main": "index.js",
+  "author": "web5",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
